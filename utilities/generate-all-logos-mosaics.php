@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * @file
  * PHP script to generate all logos mosaics.
  * Can only be run from CLI.
  * Usage:
@@ -11,11 +12,13 @@
  * ⚠️ Script comes with no warranty, use at your own risk.
  */
 
+// phpcs:disable PSR1.Files.SideEffects.FoundWithSymbols
+
 error_reporting(E_ALL);
 
 // Script should be run from CLI only.
 if (PHP_SAPI !== 'cli') {
-    die("This script must be ran from the command line,");
+    die("This script must be ran from the command line.");
 }
 
 // Global $settings.
@@ -93,7 +96,9 @@ $settings = array(
 
 /**
  * List all files of a directory.
- * @param string $dir
+ *
+ * @param string $dir Directory to scan.
+ *
  * @return array<string>
  */
 function listAllFiles(string $dir): array
@@ -114,8 +119,10 @@ function listAllFiles(string $dir): array
 
 /**
  * Group logos per country, and sort them ASC.
+ *
  * @param array<string> $logos List of logos.
  * @param string $source Path to folder.
+ *
  * @return array<string, array<string, string>>
  */
 function organizeContent(array $logos, string $source): array
@@ -130,7 +137,10 @@ function organizeContent(array $logos, string $source): array
             $filename = array_pop($chunkedPath);
             $allowedExtensionsPattern = '/\.(png)/i';
             if (!empty($filename) && preg_match($allowedExtensionsPattern, $filename)) {
-                $output[$country][preg_replace($allowedExtensionsPattern, '', $filename)] = join('/', array_merge($chunkedPath, [$filename]));
+                $output[$country][preg_replace($allowedExtensionsPattern, '', $filename)] = join(
+                    '/',
+                    array_merge($chunkedPath, [$filename])
+                );
             }
         }
     }
@@ -142,11 +152,13 @@ function organizeContent(array $logos, string $source): array
     return $output;
 }
 
-/** @noinspection RedundantSuppression */
+// @noinspection RedundantSuppression
 /**
  * Create all MD files.
+ *
  * @param array<string, array<string, string>> $logos List of logos.
  * @param string $source Path to folder.
+ *
  * @return void
  */
 function createMDFiles(array $logos, string $source): void
@@ -161,15 +173,20 @@ function createMDFiles(array $logos, string $source): void
 
         $outputContent = "";
 
-        /** @noinspection PhpConcatenationWithEmptyStringCanBeInlinedInspection */
-        $outputContent .= sprintf("# %s %s\n", ucwords(str_replace('-', ' ', $country)), $settings['flags'][$country]);
+        // @noinspection PhpConcatenationWithEmptyStringCanBeInlinedInspection
+        $outputContent .= sprintf(
+            "# %s %s\n",
+            ucwords(str_replace('-', ' ', $country)),
+            $settings['flags'][$country]
+        );
         $outputContent .= "\n";
 
         $table = "";
         $matrix = array();
         $list = "";
         $i = 0;
-        /** @noinspection PhpWrongForeachArgumentTypeInspection */
+
+        // @noinspection PhpWrongForeachArgumentTypeInspection
         foreach ($files as $fileKey => $file) {
             $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
             $list .= "[$fileKey]:$file\n";
@@ -192,7 +209,6 @@ function createMDFiles(array $logos, string $source): void
                     }
                 }
             }
-
         }
 
         for ($i = 0; $i < $settings['cols']; $i++) {
@@ -216,6 +232,7 @@ function createMDFiles(array $logos, string $source): void
 
 /**
  * Generate all logos mosaics MD files.
+ *
  * @return void
  */
 function generateAllLogosMosaics(): void

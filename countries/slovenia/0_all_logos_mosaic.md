@@ -19,5 +19,5 @@
 [tv-slo-3-si]:tv-slo-3-si.png
 [tv3-si]:tv3-si.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

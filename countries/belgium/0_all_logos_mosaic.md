@@ -184,5 +184,5 @@
 [vtm3-be]:vtm3-be.png
 [vtm4-be]:vtm4-be.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

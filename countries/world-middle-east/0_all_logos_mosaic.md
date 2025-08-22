@@ -86,5 +86,5 @@
 [star-series-mea]:star-series-mea.png
 [star-world-mea]:star-world-mea.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

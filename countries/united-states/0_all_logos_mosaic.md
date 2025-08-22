@@ -1594,5 +1594,5 @@
 [you-too-america-us]:you-too-america-us.png
 [z-living-us]:z-living-us.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

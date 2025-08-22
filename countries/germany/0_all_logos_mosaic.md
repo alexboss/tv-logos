@@ -836,5 +836,5 @@
 [zdf-neo-hd-de]:hd/zdf-neo-hd-de.png
 [zwei-music-television-de]:zwei-music-television-de.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

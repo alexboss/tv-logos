@@ -140,5 +140,5 @@
 [yicai-tv-hk]:yicai-tv-hk.png
 [zhejiang-television-hk]:zhejiang-television-hk.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

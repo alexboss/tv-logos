@@ -471,5 +471,5 @@
 [videolina-it]:videolina-it.png
 [zona-dazn-it]:zona-dazn-it.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

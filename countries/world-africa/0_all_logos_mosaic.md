@@ -30,5 +30,5 @@
 [travelxp-afr]:travelxp-afr.png
 [tvc-news-afr]:tvc-news-afr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

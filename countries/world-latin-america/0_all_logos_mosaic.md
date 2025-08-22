@@ -168,5 +168,5 @@
 [vix-plus-lam]:vix-plus-lam.png
 [warner-channel-lam]:warner-channel-lam.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -442,5 +442,5 @@
 [zing-in]:zing-in.png
 [zoom-in]:zoom-in.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

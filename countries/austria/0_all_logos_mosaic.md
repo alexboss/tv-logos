@@ -162,5 +162,5 @@
 [wt1-at]:wt1-at.png
 [ztv-at]:ztv-at.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

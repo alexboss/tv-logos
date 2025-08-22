@@ -359,5 +359,5 @@
 [z-ca]:z-ca.png
 [zeste-ca]:zeste-ca.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

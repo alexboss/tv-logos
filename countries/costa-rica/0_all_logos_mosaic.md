@@ -14,5 +14,5 @@
 [tele-uno-tv-cr]:tele-uno-tv-cr.png
 [teletica-7-cr]:teletica-7-cr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

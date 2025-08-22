@@ -23,5 +23,5 @@
 [rtl-zwee-lu]:rtl-zwee-lu.png
 [steesel-tv-lu]:steesel-tv-lu.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

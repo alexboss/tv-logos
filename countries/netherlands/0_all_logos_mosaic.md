@@ -184,5 +184,5 @@
 [ziggo-sport-nl]:ziggo-sport-nl.png
 [ziggo-tv-nl]:ziggo-tv-nl.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

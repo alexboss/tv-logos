@@ -353,5 +353,5 @@
 [yol-tv-tr]:yol-tv-tr.png
 [zarok-tv-tr]:zarok-tv-tr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

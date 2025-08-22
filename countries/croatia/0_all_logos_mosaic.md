@@ -212,5 +212,5 @@
 [z1-hr]:z1-hr.png
 [zdrava-televizija-hr]:zdrava-televizija-hr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

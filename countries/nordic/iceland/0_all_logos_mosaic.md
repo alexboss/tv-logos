@@ -35,5 +35,5 @@
 [visir-is]:visir-is.png
 [vodafone-sport-is]:vodafone-sport-is.png
 
-[space]:../../../misc/space-1500.png
+[space]:../../../misc/space-1500.png "Space"
 

@@ -119,5 +119,5 @@
 [дивись-як-чутно-ua]:дивись-як-чутно-ua.png
 [дорама-ua]:дорама-ua.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

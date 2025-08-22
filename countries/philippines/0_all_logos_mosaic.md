@@ -94,5 +94,5 @@
 [yey-ph]:yey-ph.png
 [zoe-tv-ph]:zoe-tv-ph.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

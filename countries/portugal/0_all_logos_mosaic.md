@@ -140,5 +140,5 @@
 [tvi-reality-pt]:tvi-reality-pt.png
 [v+tvi-pt]:v+tvi-pt.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

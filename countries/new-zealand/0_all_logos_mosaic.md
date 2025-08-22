@@ -131,5 +131,5 @@
 [tvsn-nz]:tvsn-nz.png
 [vibe-nz]:vibe-nz.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

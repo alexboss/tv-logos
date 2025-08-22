@@ -57,5 +57,5 @@
 [tv-lux-sk]:tv-lux-sk.png
 [tv-osem-sk]:tv-osem-sk.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

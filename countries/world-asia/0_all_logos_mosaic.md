@@ -30,5 +30,5 @@
 [rock-extreme-asi]:rock-extreme-asi.png
 [star-asi]:star-asi.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

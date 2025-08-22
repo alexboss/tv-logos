@@ -134,5 +134,5 @@
 [visjon-norge-no]:visjon-norge-no.png
 [vox-no]:vox-no.png
 
-[space]:../../../misc/space-1500.png
+[space]:../../../misc/space-1500.png "Space"
 

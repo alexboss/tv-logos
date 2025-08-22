@@ -105,5 +105,5 @@
 [xy-mix-bg]:xy-mix-bg.png
 [xy-plus-bg]:xy-plus-bg.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -1,4 +1,4 @@
-# International 🗺️
+# International 🌎
 
 | ![360-tunebox-int] | ![animal-planet-int] | ![arirang-int] | ![bbc-arabic-hz-int] | ![bbc-arabic-int] | ![bbc-news-arabic-hz-int] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -347,5 +347,5 @@
 [wion-int]:wion-int.png
 [zoo-moo-int]:zoo-moo-int.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

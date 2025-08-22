@@ -46,5 +46,5 @@
 [vasantham-sg]:vasantham-sg.png
 [vijay-tv-sg]:vijay-tv-sg.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

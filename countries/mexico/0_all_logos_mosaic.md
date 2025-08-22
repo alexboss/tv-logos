@@ -56,5 +56,5 @@
 [tudn-mx]:tudn-mx.png
 [unicable-mx]:unicable-mx.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -9,5 +9,5 @@
 [idman-tv-tr]:idman-tv-tr.png
 [medeniyyet-tv-tr]:medeniyyet-tv-tr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

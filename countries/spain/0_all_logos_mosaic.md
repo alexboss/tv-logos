@@ -309,5 +309,5 @@
 [warner-tv-es]:warner-tv-es.png
 [xtrm-es]:xtrm-es.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

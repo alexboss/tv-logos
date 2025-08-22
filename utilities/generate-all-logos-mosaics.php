@@ -39,7 +39,7 @@ $settings = array(
         'brazil' => '🇧🇷',
         'bulgaria' => '🇧🇬',
         'canada' => '🇨🇦',
-        'caribbean' => '🏝️',
+        'caribbean' => '🌎',
         'chile' => '🇨🇱',
         'costa-rica' => '🇨🇷',
         'croatia' => '🇭🇷',
@@ -54,7 +54,7 @@ $settings = array(
         'iceland' => '🇮🇸',
         'india' => '🇮🇳',
         'indonesia' => '🇮🇩',
-        'international' => '🗺️',
+        'international' => '🌎',
         'israel' => '🇮🇱',
         'italy' => '🇮🇹',
         'jamaica' => '🇯🇲',
@@ -66,7 +66,7 @@ $settings = array(
         'mexico' => '🇲🇽',
         'netherlands' => '🇳🇱',
         'new-zealand' => '🇳🇿',
-        'nordic' => '🏔️',
+        'nordic' => '🌍',
         'norway' => '🇳🇴',
         'philippines' => '🇵🇭',
         'poland' => '🇵🇱',
@@ -223,7 +223,7 @@ function createMDFiles(array $logos, string $source): void
         $outputContent .= "$table\n";
         $outputContent .= "\n";
         $outputContent .= "$list\n";
-        $outputContent .= "[space]:$extraLevels../../misc/space-1500.png\n";
+        $outputContent .= "[space]:$extraLevels../../misc/space-1500.png \"Space\"\n";
         $outputContent .= "\n";
 
         file_put_contents($outputFile, $outputContent);

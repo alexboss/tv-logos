@@ -99,5 +99,5 @@
 [viasat-history-dk]:viasat-history-dk.png
 [viasat-nature-dk]:viasat-nature-dk.png
 
-[space]:../../../misc/space-1500.png
+[space]:../../../misc/space-1500.png "Space"
 

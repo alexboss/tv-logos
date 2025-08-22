@@ -66,5 +66,5 @@
 [viasat-kino-megahit-lt]:viasat-kino-megahit-lt.png
 [viasat-kino-world-lt]:viasat-kino-world-lt.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

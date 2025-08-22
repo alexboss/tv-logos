@@ -28,5 +28,5 @@
 [tvm-sport-plus-mt]:tvm-sport-plus-mt.png
 [xejk-mt]:xejk-mt.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

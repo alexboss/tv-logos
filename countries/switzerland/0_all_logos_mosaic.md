@@ -79,5 +79,5 @@
 [tv25-ch]:tv25-ch.png
 [tvo-ch]:tvo-ch.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

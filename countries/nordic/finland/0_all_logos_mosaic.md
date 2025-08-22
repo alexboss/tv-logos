@@ -84,5 +84,5 @@
 [yle-tv1-fi]:yle-tv1-fi.png
 [yle-tv2-fi]:yle-tv2-fi.png
 
-[space]:../../../misc/space-1500.png
+[space]:../../../misc/space-1500.png "Space"
 

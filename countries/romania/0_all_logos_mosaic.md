@@ -204,5 +204,5 @@
 [warner-tv-ro]:warner-tv-ro.png
 [zu-tv-ro]:zu-tv-ro.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

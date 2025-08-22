@@ -149,5 +149,5 @@
 [vouli-tv-gr]:vouli-tv-gr.png
 [west-channel-gr]:west-channel-gr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

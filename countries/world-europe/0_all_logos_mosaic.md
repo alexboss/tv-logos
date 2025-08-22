@@ -46,5 +46,5 @@
 [rossiya-budushchego-tv-eu]:rossiya-budushchego-tv-eu.png
 [venus-eu]:venus-eu.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

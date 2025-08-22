@@ -415,5 +415,5 @@
 [win-peach-au]:win-peach-au.png
 [you-tv-au]:you-tv-au.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

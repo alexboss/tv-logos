@@ -252,5 +252,5 @@
 [warner-tv-fr]:warner-tv-fr.png
 [warner-tv-next-fr]:warner-tv-next-fr.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

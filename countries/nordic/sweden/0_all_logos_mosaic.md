@@ -79,5 +79,5 @@
 [v-sport1-se]:v-sport1-se.png
 [viaplay-sport-se]:viaplay-sport-se.png
 
-[space]:../../../misc/space-1500.png
+[space]:../../../misc/space-1500.png "Space"
 

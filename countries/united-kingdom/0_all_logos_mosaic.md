@@ -1333,5 +1333,5 @@
 [yesterday-uk]:yesterday-uk.png
 [zee-punjabi-uk]:zee-punjabi-uk.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

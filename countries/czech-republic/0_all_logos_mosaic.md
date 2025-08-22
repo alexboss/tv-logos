@@ -124,5 +124,5 @@
 [tvs-cz]:tvs-cz.png
 [warner-tv-ch]:warner-tv-ch.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

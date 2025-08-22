@@ -100,5 +100,5 @@
 [zhara-ru]:zhara-ru.png
 [zvezda-plus-ru]:zvezda-plus-ru.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

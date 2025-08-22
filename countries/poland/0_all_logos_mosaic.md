@@ -297,5 +297,5 @@
 [wydarzenia-24-pl]:wydarzenia-24-pl.png
 [zoom-tv-pl]:zoom-tv-pl.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -197,5 +197,5 @@
 [warner-channel-ar]:warner-channel-ar.png
 [wobi-ar]:wobi-ar.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

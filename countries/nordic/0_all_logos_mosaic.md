@@ -1,4 +1,4 @@
-# Nordic 🏔️
+# Nordic 🌍
 
 | ![24-corren-se] | ![6eren-dk] | ![althingi-is] | ![animal-planet-dk] | ![bbc-brit-dk] | ![bbc-brit-no] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -410,5 +410,5 @@
 [yle-tv1-fi]:finland/yle-tv1-fi.png
 [yle-tv2-fi]:finland/yle-tv2-fi.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

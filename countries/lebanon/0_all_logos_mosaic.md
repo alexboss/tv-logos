@@ -19,5 +19,5 @@
 [tele-liban-lb]:tele-liban-lb.png
 [tele-lumiere-lb]:tele-lumiere-lb.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

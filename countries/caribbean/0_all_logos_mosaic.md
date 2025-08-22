@@ -1,4 +1,4 @@
-# Caribbean 🏝️
+# Caribbean 🌎
 
 | ![flow-sports-car] | ![flow-sports-hz-car] | ![rush-2-car] | ![rush-3-car] | ![rush-car] | ![sportsmax-2-hz-jm] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -14,5 +14,5 @@
 [sportsmax-2-hz-jm]:jamaica/sportsmax-2-hz-jm.png
 [sportsmax-hz-jm]:jamaica/sportsmax-hz-jm.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

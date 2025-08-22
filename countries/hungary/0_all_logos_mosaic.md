@@ -117,5 +117,5 @@
 [vixen-hu]:vixen-hu.png
 [zenebutik-hu]:zenebutik-hu.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

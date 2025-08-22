@@ -50,5 +50,5 @@
 [tv-klan-al]:tv-klan-al.png
 [vizion-plus-al]:vizion-plus-al.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -51,5 +51,5 @@
 [tvri-world-id]:tvri-world-id.png
 [vtv-id]:vtv-id.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -173,5 +173,5 @@
 [vuzu-za]:vuzu-za.png
 [zambezi-magic-za]:zambezi-magic-za.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -113,5 +113,5 @@
 [zoom-il]:zoom-il.png
 [zoom-toon-il]:zoom-toon-il.png
 
-[space]:../../misc/space-1500.png
+[space]:../../misc/space-1500.png "Space"
 

@@ -1,6 +1,6 @@
 # I'm trying this for the 3rd time
 
-I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
+I now have an enterprise account. I hope GitHub will allow me to stay up this time. Please consider donating since enterprise accounts are not free.
 
 # Free high quality TV Logos for dark backgrounds
 
@@ -10,7 +10,7 @@ Here you will find free tv logos from around the world in good high-res quality 
 
 ## 💛 Support me to continue this project
 
-If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
+If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
 
 [<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
@@ -139,7 +139,7 @@ Time delay channels are identified with "plus", example: challenge-plus-uk.png F
 
 If ampersand(&) is present in channel name then it will be replaced with "and", example: a-and-e-us.png
 
-For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
+For channels that don't authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
 
 Example: 7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png
 

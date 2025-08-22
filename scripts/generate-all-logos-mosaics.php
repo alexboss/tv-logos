@@ -140,27 +140,23 @@ function createMDFiles($input, $destination)
             $i++;
         }
 
-        for ($i = 0; $i < $globals['cols']; $i++) {
-            $table .= "| ![" . (($matrix[0][$i]) ?? "space") . "] ";
-            if ($i === $globals['cols'] - 1) {
-                $table .= "|\n";
-            }
-        }
-
-        for ($i = 0; $i < $globals['cols']; $i++) {
-            $table .= "|:---:";
-            if ($i === $globals['cols'] - 1) {
-                $table .= "|\n";
-            }
-        }
-
-        for ($j = 1; $j < count($matrix); $j++) {
+        for ($j = 0; $j < count($matrix); $j++) {
             for ($i = 0; $i < $globals['cols']; $i++) {
                 $table .= "| ![" . (($matrix[$j][$i]) ?? "space") . "] ";
                 if ($i === $globals['cols'] - 1) {
                     $table .= "|\n";
                 }
             }
+
+            if ($j === 0) {
+                for ($i = 0; $i < $globals['cols']; $i++) {
+                    $table .= "|:---:";
+                    if ($i === $globals['cols'] - 1) {
+                        $table .= "|\n";
+                    }
+                }
+            }
+
         }
 
         for ($i = 0; $i < $globals['cols']; $i++) {

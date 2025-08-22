@@ -93,10 +93,10 @@ $settings = array(
 
 /**
  * List all files of a directory.
- * @param $dir string
- * @return false|array
+ * @param string $dir
+ * @return array<string>
  */
-function listAllFiles(string $dir): false|array
+function listAllFiles(string $dir): array
 {
     $array = array_diff(scandir($dir), array('.', '..'));
 
@@ -114,9 +114,9 @@ function listAllFiles(string $dir): false|array
 
 /**
  * Group logos per country, and sort them ASC.
- * @param $logos array List of logos.
- * @param $source string Path to folder.
- * @return array
+ * @param array<string> $logos List of logos.
+ * @param string $source Path to folder.
+ * @return array<string, array<string, string>>
  */
 function organizeContent(array $logos, string $source): array
 {
@@ -145,8 +145,8 @@ function organizeContent(array $logos, string $source): array
 /** @noinspection RedundantSuppression */
 /**
  * Create all MD files.
- * @param $logos array List of logos.
- * @param $source string Path to folder.
+ * @param array<string, array<string, string>> $logos List of logos.
+ * @param string $source Path to folder.
  * @return void
  */
 function createMDFiles(array $logos, string $source): void
@@ -169,6 +169,7 @@ function createMDFiles(array $logos, string $source): void
         $matrix = array();
         $list = "";
         $i = 0;
+        /** @noinspection PhpWrongForeachArgumentTypeInspection */
         foreach ($files as $fileKey => $file) {
             $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
             $list .= "[$fileKey]:$file\n";

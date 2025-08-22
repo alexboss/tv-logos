@@ -5,7 +5,7 @@
 | ![fox-sports-1-asi] | ![fox-sports-1-hd-asi] | ![fox-sports-2-asi] | ![fox-sports-2-hd-asi] | ![fox-sports-3-asi] | ![fox-sports-3-hd-asi] |
 | ![fox-sports-asi] | ![fox-sports-hd-asi] | ![hits-asi] | ![hits-movies-asi] | ![kix-asi] | ![rock-action-asi] |
 | ![rock-entertainment-asi] | ![rock-extreme-asi] | ![star-asi] | ![space] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [bein-sports-rugby-asi]:bein-sports-rugby-asi.png

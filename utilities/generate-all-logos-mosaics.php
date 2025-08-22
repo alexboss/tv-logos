@@ -188,6 +188,8 @@ function createMDFiles(array $logos, string $source): void
 
         // @noinspection PhpWrongForeachArgumentTypeInspection
         foreach ($files as $fileKey => $file) {
+            // Strip out the country ID.
+            $fileKey = preg_replace('/-[a-z]{2}$/', '', $fileKey);
             $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
             $list .= "[$fileKey]:$file\n";
             $i++;
@@ -212,7 +214,7 @@ function createMDFiles(array $logos, string $source): void
         }
 
         for ($i = 0; $i < $settings['cols']; $i++) {
-            $table .= "| ![space]";
+            $table .= "| ![space] ";
             if ($i === $settings['cols'] - 1) {
                 $table .= "|\n";
             }

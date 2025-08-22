@@ -1,70 +1,70 @@
 # Lithuania 🇱🇹
 
-| ![2tv-lt] | ![4y-lt] | ![balticum-auksinis-lt] | ![balticum-platinum-lt] | ![balticum-tv-lt] | ![btv-lt] |
+| ![2tv] | ![4y] | ![balticum-auksinis] | ![balticum-platinum] | ![balticum-tv] | ![btv] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![delfi-tv-lt] | ![duo3-lt] | ![duo6-lt] | ![dzukijos-tv-lt] | ![epic-drama-lt] | ![filmzone-lt] |
-| ![filmzone-plus-lt] | ![gn-tv-lt] | ![go-3-films-lt] | ![go-3-sport-1-lt] | ![go-3-sport-2-lt] | ![go-3-sport-3-lt] |
-| ![go-3-sport-open-lt] | ![info-tv-lt] | ![kanal7-lt] | ![kanal7-plus-lt] | ![kidzone-lt] | ![kidzone-max-lt] |
-| ![kidzone-mini-lt] | ![kino7-lt] | ![lietuvos-rytas-tv-lt] | ![lnk-lt] | ![lrt-lituanica-lt] | ![lrt-plius-lt] |
-| ![lrt-tv-lt] | ![marijampoles-tv-lt] | ![nick-jr-lt] | ![nickelodeon-lt] | ![pingviniukas-lt] | ![siauliu-tv-lt] |
-| ![smartzone-lt] | ![sport1-lt] | ![super-baltic-lt] | ![super-plus-lt] | ![tv1-lt] | ![tv21-lt] |
-| ![tv3-lt] | ![tv3-plus-lt] | ![tv6-lt] | ![tv7-lt] | ![tv8-lt] | ![viasat-kino-action-lt] |
-| ![viasat-kino-comedy-lt] | ![viasat-kino-lt] | ![viasat-kino-megahit-lt] | ![viasat-kino-world-lt] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![delfi-tv] | ![duo3] | ![duo6] | ![dzukijos-tv] | ![epic-drama] | ![filmzone] |
+| ![filmzone-plus] | ![gn-tv] | ![go-3-films] | ![go-3-sport-1] | ![go-3-sport-2] | ![go-3-sport-3] |
+| ![go-3-sport-open] | ![info-tv] | ![kanal7] | ![kanal7-plus] | ![kidzone] | ![kidzone-max] |
+| ![kidzone-mini] | ![kino7] | ![lietuvos-rytas-tv] | ![lnk] | ![lrt-lituanica] | ![lrt-plius] |
+| ![lrt-tv] | ![marijampoles-tv] | ![nick-jr] | ![nickelodeon] | ![pingviniukas] | ![siauliu-tv] |
+| ![smartzone] | ![sport1] | ![super-baltic] | ![super-plus] | ![tv1] | ![tv21] |
+| ![tv3] | ![tv3-plus] | ![tv6] | ![tv7] | ![tv8] | ![viasat-kino-action] |
+| ![viasat-kino-comedy] | ![viasat-kino] | ![viasat-kino-megahit] | ![viasat-kino-world] | ![space] | ![space] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
-[2tv-lt]:2tv-lt.png
-[4y-lt]:4y-lt.png
-[balticum-auksinis-lt]:balticum-auksinis-lt.png
-[balticum-platinum-lt]:balticum-platinum-lt.png
-[balticum-tv-lt]:balticum-tv-lt.png
-[btv-lt]:btv-lt.png
-[delfi-tv-lt]:delfi-tv-lt.png
-[duo3-lt]:duo3-lt.png
-[duo6-lt]:duo6-lt.png
-[dzukijos-tv-lt]:dzukijos-tv-lt.png
-[epic-drama-lt]:epic-drama-lt.png
-[filmzone-lt]:filmzone-lt.png
-[filmzone-plus-lt]:filmzone-plus-lt.png
-[gn-tv-lt]:gn-tv-lt.png
-[go-3-films-lt]:go-3-films-lt.png
-[go-3-sport-1-lt]:go-3-sport-1-lt.png
-[go-3-sport-2-lt]:go-3-sport-2-lt.png
-[go-3-sport-3-lt]:go-3-sport-3-lt.png
-[go-3-sport-open-lt]:go-3-sport-open-lt.png
-[info-tv-lt]:info-tv-lt.png
-[kanal7-lt]:kanal7-lt.png
-[kanal7-plus-lt]:kanal7-plus-lt.png
-[kidzone-lt]:kidzone-lt.png
-[kidzone-max-lt]:kidzone-max-lt.png
-[kidzone-mini-lt]:kidzone-mini-lt.png
-[kino7-lt]:kino7-lt.png
-[lietuvos-rytas-tv-lt]:lietuvos-rytas-tv-lt.png
-[lnk-lt]:lnk-lt.png
-[lrt-lituanica-lt]:lrt-lituanica-lt.png
-[lrt-plius-lt]:lrt-plius-lt.png
-[lrt-tv-lt]:lrt-tv-lt.png
-[marijampoles-tv-lt]:marijampoles-tv-lt.png
-[nick-jr-lt]:nick-jr-lt.png
-[nickelodeon-lt]:nickelodeon-lt.png
-[pingviniukas-lt]:pingviniukas-lt.png
-[siauliu-tv-lt]:siauliu-tv-lt.png
-[smartzone-lt]:smartzone-lt.png
-[sport1-lt]:sport1-lt.png
-[super-baltic-lt]:super-baltic-lt.png
-[super-plus-lt]:super-plus-lt.png
-[tv1-lt]:tv1-lt.png
-[tv21-lt]:tv21-lt.png
-[tv3-lt]:tv3-lt.png
-[tv3-plus-lt]:tv3-plus-lt.png
-[tv6-lt]:tv6-lt.png
-[tv7-lt]:tv7-lt.png
-[tv8-lt]:tv8-lt.png
-[viasat-kino-action-lt]:viasat-kino-action-lt.png
-[viasat-kino-comedy-lt]:viasat-kino-comedy-lt.png
-[viasat-kino-lt]:viasat-kino-lt.png
-[viasat-kino-megahit-lt]:viasat-kino-megahit-lt.png
-[viasat-kino-world-lt]:viasat-kino-world-lt.png
+[2tv]:2tv-lt.png
+[4y]:4y-lt.png
+[balticum-auksinis]:balticum-auksinis-lt.png
+[balticum-platinum]:balticum-platinum-lt.png
+[balticum-tv]:balticum-tv-lt.png
+[btv]:btv-lt.png
+[delfi-tv]:delfi-tv-lt.png
+[duo3]:duo3-lt.png
+[duo6]:duo6-lt.png
+[dzukijos-tv]:dzukijos-tv-lt.png
+[epic-drama]:epic-drama-lt.png
+[filmzone]:filmzone-lt.png
+[filmzone-plus]:filmzone-plus-lt.png
+[gn-tv]:gn-tv-lt.png
+[go-3-films]:go-3-films-lt.png
+[go-3-sport-1]:go-3-sport-1-lt.png
+[go-3-sport-2]:go-3-sport-2-lt.png
+[go-3-sport-3]:go-3-sport-3-lt.png
+[go-3-sport-open]:go-3-sport-open-lt.png
+[info-tv]:info-tv-lt.png
+[kanal7]:kanal7-lt.png
+[kanal7-plus]:kanal7-plus-lt.png
+[kidzone]:kidzone-lt.png
+[kidzone-max]:kidzone-max-lt.png
+[kidzone-mini]:kidzone-mini-lt.png
+[kino7]:kino7-lt.png
+[lietuvos-rytas-tv]:lietuvos-rytas-tv-lt.png
+[lnk]:lnk-lt.png
+[lrt-lituanica]:lrt-lituanica-lt.png
+[lrt-plius]:lrt-plius-lt.png
+[lrt-tv]:lrt-tv-lt.png
+[marijampoles-tv]:marijampoles-tv-lt.png
+[nick-jr]:nick-jr-lt.png
+[nickelodeon]:nickelodeon-lt.png
+[pingviniukas]:pingviniukas-lt.png
+[siauliu-tv]:siauliu-tv-lt.png
+[smartzone]:smartzone-lt.png
+[sport1]:sport1-lt.png
+[super-baltic]:super-baltic-lt.png
+[super-plus]:super-plus-lt.png
+[tv1]:tv1-lt.png
+[tv21]:tv21-lt.png
+[tv3]:tv3-lt.png
+[tv3-plus]:tv3-plus-lt.png
+[tv6]:tv6-lt.png
+[tv7]:tv7-lt.png
+[tv8]:tv8-lt.png
+[viasat-kino-action]:viasat-kino-action-lt.png
+[viasat-kino-comedy]:viasat-kino-comedy-lt.png
+[viasat-kino]:viasat-kino-lt.png
+[viasat-kino-megahit]:viasat-kino-megahit-lt.png
+[viasat-kino-world]:viasat-kino-world-lt.png
 
 [space]:../../misc/space-1500.png "Space"
 

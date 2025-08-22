@@ -1,39 +1,39 @@
 # Iceland 🇮🇸
 
-| ![althingi-is] | ![bbc-nordic-is] | ![hringbraut-is] | ![n4-is] | ![ruv-is] | ![ruv2-is] |
+| ![althingi] | ![bbc-nordic] | ![hringbraut] | ![n4] | ![ruv] | ![ruv2] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![siminn-sport-is] | ![siminn-sport-uhd-is] | ![siminn-sport2-is] | ![siminn-sport3-is] | ![siminn-sport4-is] | ![sjonvarp-simans-is] |
-| ![syn-is] | ![syn-sport-2-is] | ![syn-sport-3-is] | ![syn-sport-4-is] | ![syn-sport-5-is] | ![syn-sport-6-is] |
-| ![syn-sport-is] | ![syn-sport-island-2-is] | ![syn-sport-island-3-is] | ![syn-sport-island-is] | ![syn-sport-viaplay-is] | ![visir-is] |
-| ![vodafone-sport-is] | ![space] | ![space] | ![space] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![siminn-sport] | ![siminn-sport-uhd] | ![siminn-sport2] | ![siminn-sport3] | ![siminn-sport4] | ![sjonvarp-simans] |
+| ![syn] | ![syn-sport-2] | ![syn-sport-3] | ![syn-sport-4] | ![syn-sport-5] | ![syn-sport-6] |
+| ![syn-sport] | ![syn-sport-island-2] | ![syn-sport-island-3] | ![syn-sport-island] | ![syn-sport-viaplay] | ![visir] |
+| ![vodafone-sport] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
-[althingi-is]:althingi-is.png
-[bbc-nordic-is]:bbc-nordic-is.png
-[hringbraut-is]:hringbraut-is.png
-[n4-is]:n4-is.png
-[ruv-is]:ruv-is.png
-[ruv2-is]:ruv2-is.png
-[siminn-sport-is]:siminn-sport-is.png
-[siminn-sport-uhd-is]:siminn-sport-uhd-is.png
-[siminn-sport2-is]:siminn-sport2-is.png
-[siminn-sport3-is]:siminn-sport3-is.png
-[siminn-sport4-is]:siminn-sport4-is.png
-[sjonvarp-simans-is]:sjonvarp-simans-is.png
-[syn-is]:syn-is.png
-[syn-sport-2-is]:syn-sport-2-is.png
-[syn-sport-3-is]:syn-sport-3-is.png
-[syn-sport-4-is]:syn-sport-4-is.png
-[syn-sport-5-is]:syn-sport-5-is.png
-[syn-sport-6-is]:syn-sport-6-is.png
-[syn-sport-is]:syn-sport-is.png
-[syn-sport-island-2-is]:syn-sport-island-2-is.png
-[syn-sport-island-3-is]:syn-sport-island-3-is.png
-[syn-sport-island-is]:syn-sport-island-is.png
-[syn-sport-viaplay-is]:syn-sport-viaplay-is.png
-[visir-is]:visir-is.png
-[vodafone-sport-is]:vodafone-sport-is.png
+[althingi]:althingi-is.png
+[bbc-nordic]:bbc-nordic-is.png
+[hringbraut]:hringbraut-is.png
+[n4]:n4-is.png
+[ruv]:ruv-is.png
+[ruv2]:ruv2-is.png
+[siminn-sport]:siminn-sport-is.png
+[siminn-sport-uhd]:siminn-sport-uhd-is.png
+[siminn-sport2]:siminn-sport2-is.png
+[siminn-sport3]:siminn-sport3-is.png
+[siminn-sport4]:siminn-sport4-is.png
+[sjonvarp-simans]:sjonvarp-simans-is.png
+[syn]:syn-is.png
+[syn-sport-2]:syn-sport-2-is.png
+[syn-sport-3]:syn-sport-3-is.png
+[syn-sport-4]:syn-sport-4-is.png
+[syn-sport-5]:syn-sport-5-is.png
+[syn-sport-6]:syn-sport-6-is.png
+[syn-sport]:syn-sport-is.png
+[syn-sport-island-2]:syn-sport-island-2-is.png
+[syn-sport-island-3]:syn-sport-island-3-is.png
+[syn-sport-island]:syn-sport-island-is.png
+[syn-sport-viaplay]:syn-sport-viaplay-is.png
+[visir]:visir-is.png
+[vodafone-sport]:vodafone-sport-is.png
 
 [space]:../../../misc/space-1500.png "Space"
 

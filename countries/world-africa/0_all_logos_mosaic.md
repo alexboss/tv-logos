@@ -5,7 +5,7 @@
 | ![africa-magic-urban-afr] | ![africa-magic-yoruba-afr] | ![celebration-tv-afr] | ![channels-24-afr] | ![channels-afr] | ![curiosity-channel-afr] |
 | ![curiosity-channel-hz-afr] | ![dunamis-tv-afr] | ![novelas-tv-afr] | ![star-mundo-afr] | ![tbn-africa-afr] | ![the-box-africa-afr] |
 | ![the-box-africa-hz-afr] | ![travelxp-afr] | ![tvc-news-afr] | ![space] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [africa-magic-epic-afr]:africa-magic-epic-afr.png

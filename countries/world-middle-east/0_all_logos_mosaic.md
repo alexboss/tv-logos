@@ -13,7 +13,7 @@
 | ![bein-sports-6-mea] | ![bein-sports-7-hz-mea] | ![bein-sports-7-mea] | ![bein-sports-arabic-mea] | ![bein-sports-mea] | ![bein-sports-nba-mea] |
 | ![cnbc-arabiya-mea] | ![sky-news-arabia-mea] | ![star-action-mea] | ![star-channels-mea] | ![star-films-mea] | ![star-life-mea] |
 | ![star-movies-mea] | ![star-series-mea] | ![star-world-mea] | ![space] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [bein-box-office-1-hz-mea]:bein-box-office-1-hz-mea.png

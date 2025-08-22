@@ -1,83 +1,83 @@
 # Switzerland 🇨🇭
 
-| ![3-plus-ch] | ![4-plus-ch] | ![5-plus-ch] | ![6-plus-ch] | ![7-plus-ch] | ![be-curious-tv-ch] |
+| ![3-plus] | ![4-plus] | ![5-plus] | ![6-plus] | ![7-plus] | ![be-curious-tv] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![booster-tv-ch] | ![canal-alpha-ch] | ![canal-alpha-ju-ch] | ![canal-alpha-ne-ch] | ![canal-plus-sport-2-ch] | ![canal9-ch] |
-| ![carac1-ch] | ![carac2-ch] | ![carac3-ch] | ![carac4-ch] | ![folx-music-television-ch] | ![grand-geneve-tv-ch] |
-| ![la-tele-ch] | ![lemanbleu-tv-ch] | ![lfm-tv-ch] | ![m6-ch] | ![max-tv-ch] | ![my-sports-10-ch] |
-| ![my-sports-2-ch] | ![my-sports-3-ch] | ![my-sports-4-ch] | ![my-sports-5-ch] | ![my-sports-6-ch] | ![my-sports-7-ch] |
-| ![my-sports-8-ch] | ![my-sports-9-ch] | ![my-sports-eins-ch] | ![my-sports-un-ch] | ![nickelodeon-schweiz-ch] | ![nrtv-ch] |
-| ![one-tv-ch] | ![rouge-tv-ch] | ![rsi-la1-ch] | ![rsi-la2-ch] | ![rtr-televisiun-rumantscha-ch] | ![rts-deux-ch] |
-| ![rts-info-ch] | ![rts-un-ch] | ![s1-ch] | ![schaffhauser-fernsehen-ch] | ![srf-1-ch] | ![srf-info-ch] |
-| ![srf-zwei-ch] | ![star-tv-ch] | ![swiss1-ch] | ![tele-barn-ch] | ![tele-bielingue-ch] | ![tele-m1-ch] |
-| ![tele-ticino-ch] | ![tele-top-ch] | ![tele-zuri-ch] | ![tele1-ch] | ![telebasel-ch] | ![tv-sudostschweiz-ch] |
-| ![tv24-ch] | ![tv25-ch] | ![tvo-ch] | ![space] | ![space] | ![space] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![booster-tv] | ![canal-alpha] | ![canal-alpha-ju] | ![canal-alpha-ne] | ![canal-plus-sport-2] | ![canal9] |
+| ![carac1] | ![carac2] | ![carac3] | ![carac4] | ![folx-music-television] | ![grand-geneve-tv] |
+| ![la-tele] | ![lemanbleu-tv] | ![lfm-tv] | ![m6] | ![max-tv] | ![my-sports-10] |
+| ![my-sports-2] | ![my-sports-3] | ![my-sports-4] | ![my-sports-5] | ![my-sports-6] | ![my-sports-7] |
+| ![my-sports-8] | ![my-sports-9] | ![my-sports-eins] | ![my-sports-un] | ![nickelodeon-schweiz] | ![nrtv] |
+| ![one-tv] | ![rouge-tv] | ![rsi-la1] | ![rsi-la2] | ![rtr-televisiun-rumantscha] | ![rts-deux] |
+| ![rts-info] | ![rts-un] | ![s1] | ![schaffhauser-fernsehen] | ![srf-1] | ![srf-info] |
+| ![srf-zwei] | ![star-tv] | ![swiss1] | ![tele-barn] | ![tele-bielingue] | ![tele-m1] |
+| ![tele-ticino] | ![tele-top] | ![tele-zuri] | ![tele1] | ![telebasel] | ![tv-sudostschweiz] |
+| ![tv24] | ![tv25] | ![tvo] | ![space] | ![space] | ![space] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
-[3-plus-ch]:3-plus-ch.png
-[4-plus-ch]:4-plus-ch.png
-[5-plus-ch]:5-plus-ch.png
-[6-plus-ch]:6-plus-ch.png
-[7-plus-ch]:7-plus-ch.png
-[be-curious-tv-ch]:be-curious-tv-ch.png
-[booster-tv-ch]:booster-tv-ch.png
-[canal-alpha-ch]:canal-alpha-ch.png
-[canal-alpha-ju-ch]:canal-alpha-ju-ch.png
-[canal-alpha-ne-ch]:canal-alpha-ne-ch.png
-[canal-plus-sport-2-ch]:canal-plus-sport-2-ch.png
-[canal9-ch]:canal9-ch.png
-[carac1-ch]:carac1-ch.png
-[carac2-ch]:carac2-ch.png
-[carac3-ch]:carac3-ch.png
-[carac4-ch]:carac4-ch.png
-[folx-music-television-ch]:folx-music-television-ch.png
-[grand-geneve-tv-ch]:grand-geneve-tv-ch.png
-[la-tele-ch]:la-tele-ch.png
-[lemanbleu-tv-ch]:lemanbleu-tv-ch.png
-[lfm-tv-ch]:lfm-tv-ch.png
-[m6-ch]:m6-ch.png
-[max-tv-ch]:max-tv-ch.png
-[my-sports-10-ch]:my-sports-10-ch.png
-[my-sports-2-ch]:my-sports-2-ch.png
-[my-sports-3-ch]:my-sports-3-ch.png
-[my-sports-4-ch]:my-sports-4-ch.png
-[my-sports-5-ch]:my-sports-5-ch.png
-[my-sports-6-ch]:my-sports-6-ch.png
-[my-sports-7-ch]:my-sports-7-ch.png
-[my-sports-8-ch]:my-sports-8-ch.png
-[my-sports-9-ch]:my-sports-9-ch.png
-[my-sports-eins-ch]:my-sports-eins-ch.png
-[my-sports-un-ch]:my-sports-un-ch.png
-[nickelodeon-schweiz-ch]:nickelodeon-schweiz-ch.png
-[nrtv-ch]:nrtv-ch.png
-[one-tv-ch]:one-tv-ch.png
-[rouge-tv-ch]:rouge-tv-ch.png
-[rsi-la1-ch]:rsi-la1-ch.png
-[rsi-la2-ch]:rsi-la2-ch.png
-[rtr-televisiun-rumantscha-ch]:rtr-televisiun-rumantscha-ch.png
-[rts-deux-ch]:rts-deux-ch.png
-[rts-info-ch]:rts-info-ch.png
-[rts-un-ch]:rts-un-ch.png
-[s1-ch]:s1-ch.png
-[schaffhauser-fernsehen-ch]:schaffhauser-fernsehen-ch.png
-[srf-1-ch]:srf-1-ch.png
-[srf-info-ch]:srf-info-ch.png
-[srf-zwei-ch]:srf-zwei-ch.png
-[star-tv-ch]:star-tv-ch.png
-[swiss1-ch]:swiss1-ch.png
-[tele-barn-ch]:tele-barn-ch.png
-[tele-bielingue-ch]:tele-bielingue-ch.png
-[tele-m1-ch]:tele-m1-ch.png
-[tele-ticino-ch]:tele-ticino-ch.png
-[tele-top-ch]:tele-top-ch.png
-[tele-zuri-ch]:tele-zuri-ch.png
-[tele1-ch]:tele1-ch.png
-[telebasel-ch]:telebasel-ch.png
-[tv-sudostschweiz-ch]:tv-sudostschweiz-ch.png
-[tv24-ch]:tv24-ch.png
-[tv25-ch]:tv25-ch.png
-[tvo-ch]:tvo-ch.png
+[3-plus]:3-plus-ch.png
+[4-plus]:4-plus-ch.png
+[5-plus]:5-plus-ch.png
+[6-plus]:6-plus-ch.png
+[7-plus]:7-plus-ch.png
+[be-curious-tv]:be-curious-tv-ch.png
+[booster-tv]:booster-tv-ch.png
+[canal-alpha]:canal-alpha-ch.png
+[canal-alpha-ju]:canal-alpha-ju-ch.png
+[canal-alpha-ne]:canal-alpha-ne-ch.png
+[canal-plus-sport-2]:canal-plus-sport-2-ch.png
+[canal9]:canal9-ch.png
+[carac1]:carac1-ch.png
+[carac2]:carac2-ch.png
+[carac3]:carac3-ch.png
+[carac4]:carac4-ch.png
+[folx-music-television]:folx-music-television-ch.png
+[grand-geneve-tv]:grand-geneve-tv-ch.png
+[la-tele]:la-tele-ch.png
+[lemanbleu-tv]:lemanbleu-tv-ch.png
+[lfm-tv]:lfm-tv-ch.png
+[m6]:m6-ch.png
+[max-tv]:max-tv-ch.png
+[my-sports-10]:my-sports-10-ch.png
+[my-sports-2]:my-sports-2-ch.png
+[my-sports-3]:my-sports-3-ch.png
+[my-sports-4]:my-sports-4-ch.png
+[my-sports-5]:my-sports-5-ch.png
+[my-sports-6]:my-sports-6-ch.png
+[my-sports-7]:my-sports-7-ch.png
+[my-sports-8]:my-sports-8-ch.png
+[my-sports-9]:my-sports-9-ch.png
+[my-sports-eins]:my-sports-eins-ch.png
+[my-sports-un]:my-sports-un-ch.png
+[nickelodeon-schweiz]:nickelodeon-schweiz-ch.png
+[nrtv]:nrtv-ch.png
+[one-tv]:one-tv-ch.png
+[rouge-tv]:rouge-tv-ch.png
+[rsi-la1]:rsi-la1-ch.png
+[rsi-la2]:rsi-la2-ch.png
+[rtr-televisiun-rumantscha]:rtr-televisiun-rumantscha-ch.png
+[rts-deux]:rts-deux-ch.png
+[rts-info]:rts-info-ch.png
+[rts-un]:rts-un-ch.png
+[s1]:s1-ch.png
+[schaffhauser-fernsehen]:schaffhauser-fernsehen-ch.png
+[srf-1]:srf-1-ch.png
+[srf-info]:srf-info-ch.png
+[srf-zwei]:srf-zwei-ch.png
+[star-tv]:star-tv-ch.png
+[swiss1]:swiss1-ch.png
+[tele-barn]:tele-barn-ch.png
+[tele-bielingue]:tele-bielingue-ch.png
+[tele-m1]:tele-m1-ch.png
+[tele-ticino]:tele-ticino-ch.png
+[tele-top]:tele-top-ch.png
+[tele-zuri]:tele-zuri-ch.png
+[tele1]:tele1-ch.png
+[telebasel]:telebasel-ch.png
+[tv-sudostschweiz]:tv-sudostschweiz-ch.png
+[tv24]:tv24-ch.png
+[tv25]:tv25-ch.png
+[tvo]:tvo-ch.png
 
 [space]:../../misc/space-1500.png "Space"
 

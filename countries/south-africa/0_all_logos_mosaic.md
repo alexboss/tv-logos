@@ -1,94 +1,94 @@
 # South Africa 🇿🇦
 
-| ![1kzn-tv-za] | ![1magic-za] | ![bay-tv-za] | ![boing-za] | ![business-day-tv-za] | ![cape-town-tv-za] |
+| ![1kzn-tv] | ![1magic] | ![bay-tv] | ![boing] | ![business-day-tv] | ![cape-town-tv] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![channel-o-za] | ![e-extra-za] | ![e-movies-extra-za] | ![e-movies-za] | ![e-nca-za] | ![e-news-and-sport-za] |
-| ![e-reality-za] | ![e-rewind-za] | ![e-toonz-za] | ![e-tv-za] | ![fix-and-foxi-za] | ![fliek-net-za] |
-| ![gau-tv-za] | ![glow-tv-za] | ![ignition-za] | ![itv-choice-za] | ![kyknet-and-kie-za] | ![kyknet-lekker-za] |
-| ![kyknet-nou-za] | ![kyknet-za] | ![lnbs-za] | ![m-net-channel-101-za] | ![m-net-channel-me-za] | ![m-net-city-za] |
-| ![m-net-hd-za] | ![m-net-movies-1-za] | ![m-net-movies-2-za] | ![m-net-movies-3-za] | ![m-net-movies-4-za] | ![m-net-movies-premiere-za] |
-| ![m-net-movies-za] | ![m-net-za] | ![maisha-magic-bongo-za] | ![maisha-magic-east-za] | ![maisha-magic-movies-za] | ![maisha-magic-plus-za] |
-| ![mindset-za] | ![moja-love-za] | ![mtv-base-za] | ![mtv-za] | ![mzansi-bioskop-za] | ![mzansi-magic-music-za] |
-| ![mzansi-magic-za] | ![mzansi-wethu-za] | ![newzroom-afrika-za] | ![novela-magic-za] | ![parliamentary-tv-za] | ![pearl-magic-prime-za] |
-| ![peoples-weather-za] | ![rok-za] | ![sabc-1-za] | ![sabc-2-za] | ![sabc-3-za] | ![sabc-news-za] |
-| ![soweto-tv-za] | ![supersport-1-maximo-za-obsolete] | ![supersport-1-select-za-obsolete] | ![supersport-1-za-obsolete] | ![supersport-10-hd-za-obsolete] | ![supersport-10-za-obsolete] |
+| ![channel-o] | ![e-extra] | ![e-movies-extra] | ![e-movies] | ![e-nca] | ![e-news-and-sport] |
+| ![e-reality] | ![e-rewind] | ![e-toonz] | ![e-tv] | ![fix-and-foxi] | ![fliek-net] |
+| ![gau-tv] | ![glow-tv] | ![ignition] | ![itv-choice] | ![kyknet-and-kie] | ![kyknet-lekker] |
+| ![kyknet-nou] | ![kyknet] | ![lnbs] | ![m-net-channel-101] | ![m-net-channel-me] | ![m-net-city] |
+| ![m-net-hd] | ![m-net-movies-1] | ![m-net-movies-2] | ![m-net-movies-3] | ![m-net-movies-4] | ![m-net-movies-premiere] |
+| ![m-net-movies] | ![m-net] | ![maisha-magic-bongo] | ![maisha-magic-east] | ![maisha-magic-movies] | ![maisha-magic-plus] |
+| ![mindset] | ![moja-love] | ![mtv-base] | ![mtv] | ![mzansi-bioskop] | ![mzansi-magic-music] |
+| ![mzansi-magic] | ![mzansi-wethu] | ![newzroom-afrika] | ![novela-magic] | ![parliamentary-tv] | ![pearl-magic-prime] |
+| ![peoples-weather] | ![rok] | ![sabc-1] | ![sabc-2] | ![sabc-3] | ![sabc-news] |
+| ![soweto-tv] | ![supersport-1-maximo-za-obsolete] | ![supersport-1-select-za-obsolete] | ![supersport-1-za-obsolete] | ![supersport-10-hd-za-obsolete] | ![supersport-10-za-obsolete] |
 | ![supersport-11-hd-za-obsolete] | ![supersport-11-za-obsolete] | ![supersport-12-hd-za-obsolete] | ![supersport-12-za-obsolete] | ![supersport-2-hd-za-obsolete] | ![supersport-2-maximo-za-obsolete] |
 | ![supersport-2-select-za-obsolete] | ![supersport-2-za-obsolete] | ![supersport-3-hd-za-obsolete] | ![supersport-3-maximo-za-obsolete] | ![supersport-3-za-obsolete] | ![supersport-4-hd-za-obsolete] |
 | ![supersport-4-za-obsolete] | ![supersport-5-hd-za-obsolete] | ![supersport-5-za-obsolete] | ![supersport-6-hd-za-obsolete] | ![supersport-6-za-obsolete] | ![supersport-7-hd-za-obsolete] |
-| ![supersport-7-za-obsolete] | ![supersport-8-hd-za-obsolete] | ![supersport-8-za-obsolete] | ![supersport-9-hd-za-obsolete] | ![supersport-9-za-obsolete] | ![supersport-action-bug-za] |
-| ![supersport-action-za] | ![supersport-blitz-bug-za] | ![supersport-blitz-hd-za-obsolete] | ![supersport-blitz-za] | ![supersport-cricket-bug-za] | ![supersport-cricket-za] |
-| ![supersport-csn-bug-za] | ![supersport-csn-za] | ![supersport-football-bug-za] | ![supersport-football-plus-bug-za] | ![supersport-football-plus-za] | ![supersport-football-za] |
-| ![supersport-golf-bug-za] | ![supersport-golf-za] | ![supersport-grandstand-bug-za] | ![supersport-grandstand-za] | ![supersport-laliga-bug-za] | ![supersport-laliga-za] |
-| ![supersport-maximo-360-za-obsolete] | ![supersport-maximo1-bug-za] | ![supersport-maximo1-za] | ![supersport-maximo2-bug-za] | ![supersport-maximo2-za] | ![supersport-motorsport-bug-za] |
-| ![supersport-motorsport-za] | ![supersport-play-bug-za] | ![supersport-play-za] | ![supersport-premier-league-bug-za] | ![supersport-premier-league-za] | ![supersport-psl-bug-za] |
-| ![supersport-psl-za] | ![supersport-rugby-bug-za] | ![supersport-rugby-za] | ![supersport-select-za-obsolete] | ![supersport-tennis-bug-za] | ![supersport-tennis-za] |
-| ![supersport-variety1-bug-za] | ![supersport-variety1-za] | ![supersport-variety2-bug-za] | ![supersport-variety2-za] | ![supersport-variety3-bug-za] | ![supersport-variety3-za] |
-| ![supersport-variety4-bug-za] | ![supersport-variety4-za] | ![supersport-wwe-bug-za] | ![supersport-wwe-za] | ![supersport-za] | ![the-home-channel-za] |
-| ![tnt-za] | ![tshwane-tv-za] | ![universal-tv-za] | ![via-za] | ![vuzu-za] | ![zambezi-magic-za] |
-| ![space]| ![space]| ![space]| ![space]| ![space]| ![space]|
+| ![supersport-7-za-obsolete] | ![supersport-8-hd-za-obsolete] | ![supersport-8-za-obsolete] | ![supersport-9-hd-za-obsolete] | ![supersport-9-za-obsolete] | ![supersport-action-bug] |
+| ![supersport-action] | ![supersport-blitz-bug] | ![supersport-blitz-hd-za-obsolete] | ![supersport-blitz] | ![supersport-cricket-bug] | ![supersport-cricket] |
+| ![supersport-csn-bug] | ![supersport-csn] | ![supersport-football-bug] | ![supersport-football-plus-bug] | ![supersport-football-plus] | ![supersport-football] |
+| ![supersport-golf-bug] | ![supersport-golf] | ![supersport-grandstand-bug] | ![supersport-grandstand] | ![supersport-laliga-bug] | ![supersport-laliga] |
+| ![supersport-maximo-360-za-obsolete] | ![supersport-maximo1-bug] | ![supersport-maximo1] | ![supersport-maximo2-bug] | ![supersport-maximo2] | ![supersport-motorsport-bug] |
+| ![supersport-motorsport] | ![supersport-play-bug] | ![supersport-play] | ![supersport-premier-league-bug] | ![supersport-premier-league] | ![supersport-psl-bug] |
+| ![supersport-psl] | ![supersport-rugby-bug] | ![supersport-rugby] | ![supersport-select-za-obsolete] | ![supersport-tennis-bug] | ![supersport-tennis] |
+| ![supersport-variety1-bug] | ![supersport-variety1] | ![supersport-variety2-bug] | ![supersport-variety2] | ![supersport-variety3-bug] | ![supersport-variety3] |
+| ![supersport-variety4-bug] | ![supersport-variety4] | ![supersport-wwe-bug] | ![supersport-wwe] | ![supersport] | ![the-home-channel] |
+| ![tnt] | ![tshwane-tv] | ![universal-tv] | ![via] | ![vuzu] | ![zambezi-magic] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
-[1kzn-tv-za]:1kzn-tv-za.png
-[1magic-za]:1magic-za.png
-[bay-tv-za]:bay-tv-za.png
-[boing-za]:boing-za.png
-[business-day-tv-za]:business-day-tv-za.png
-[cape-town-tv-za]:cape-town-tv-za.png
-[channel-o-za]:channel-o-za.png
-[e-extra-za]:e-extra-za.png
-[e-movies-extra-za]:e-movies-extra-za.png
-[e-movies-za]:e-movies-za.png
-[e-nca-za]:e-nca-za.png
-[e-news-and-sport-za]:e-news-and-sport-za.png
-[e-reality-za]:e-reality-za.png
-[e-rewind-za]:e-rewind-za.png
-[e-toonz-za]:e-toonz-za.png
-[e-tv-za]:e-tv-za.png
-[fix-and-foxi-za]:fix-and-foxi-za.png
-[fliek-net-za]:fliek-net-za.png
-[gau-tv-za]:gau-tv-za.png
-[glow-tv-za]:glow-tv-za.png
-[ignition-za]:ignition-za.png
-[itv-choice-za]:itv-choice-za.png
-[kyknet-and-kie-za]:kyknet-and-kie-za.png
-[kyknet-lekker-za]:kyknet-lekker-za.png
-[kyknet-nou-za]:kyknet-nou-za.png
-[kyknet-za]:kyknet-za.png
-[lnbs-za]:lnbs-za.png
-[m-net-channel-101-za]:m-net-channel-101-za.png
-[m-net-channel-me-za]:m-net-channel-me-za.png
-[m-net-city-za]:m-net-city-za.png
-[m-net-hd-za]:m-net-hd-za.png
-[m-net-movies-1-za]:m-net-movies-1-za.png
-[m-net-movies-2-za]:m-net-movies-2-za.png
-[m-net-movies-3-za]:m-net-movies-3-za.png
-[m-net-movies-4-za]:m-net-movies-4-za.png
-[m-net-movies-premiere-za]:m-net-movies-premiere-za.png
-[m-net-movies-za]:m-net-movies-za.png
-[m-net-za]:m-net-za.png
-[maisha-magic-bongo-za]:maisha-magic-bongo-za.png
-[maisha-magic-east-za]:maisha-magic-east-za.png
-[maisha-magic-movies-za]:maisha-magic-movies-za.png
-[maisha-magic-plus-za]:maisha-magic-plus-za.png
-[mindset-za]:mindset-za.png
-[moja-love-za]:moja-love-za.png
-[mtv-base-za]:mtv-base-za.png
-[mtv-za]:mtv-za.png
-[mzansi-bioskop-za]:mzansi-bioskop-za.png
-[mzansi-magic-music-za]:mzansi-magic-music-za.png
-[mzansi-magic-za]:mzansi-magic-za.png
-[mzansi-wethu-za]:mzansi-wethu-za.png
-[newzroom-afrika-za]:newzroom-afrika-za.png
-[novela-magic-za]:novela-magic-za.png
-[parliamentary-tv-za]:parliamentary-tv-za.png
-[pearl-magic-prime-za]:pearl-magic-prime-za.png
-[peoples-weather-za]:peoples-weather-za.png
-[rok-za]:rok-za.png
-[sabc-1-za]:sabc-1-za.png
-[sabc-2-za]:sabc-2-za.png
-[sabc-3-za]:sabc-3-za.png
-[sabc-news-za]:sabc-news-za.png
-[soweto-tv-za]:soweto-tv-za.png
+[1kzn-tv]:1kzn-tv-za.png
+[1magic]:1magic-za.png
+[bay-tv]:bay-tv-za.png
+[boing]:boing-za.png
+[business-day-tv]:business-day-tv-za.png
+[cape-town-tv]:cape-town-tv-za.png
+[channel-o]:channel-o-za.png
+[e-extra]:e-extra-za.png
+[e-movies-extra]:e-movies-extra-za.png
+[e-movies]:e-movies-za.png
+[e-nca]:e-nca-za.png
+[e-news-and-sport]:e-news-and-sport-za.png
+[e-reality]:e-reality-za.png
+[e-rewind]:e-rewind-za.png
+[e-toonz]:e-toonz-za.png
+[e-tv]:e-tv-za.png
+[fix-and-foxi]:fix-and-foxi-za.png
+[fliek-net]:fliek-net-za.png
+[gau-tv]:gau-tv-za.png
+[glow-tv]:glow-tv-za.png
+[ignition]:ignition-za.png
+[itv-choice]:itv-choice-za.png
+[kyknet-and-kie]:kyknet-and-kie-za.png
+[kyknet-lekker]:kyknet-lekker-za.png
+[kyknet-nou]:kyknet-nou-za.png
+[kyknet]:kyknet-za.png
+[lnbs]:lnbs-za.png
+[m-net-channel-101]:m-net-channel-101-za.png
+[m-net-channel-me]:m-net-channel-me-za.png
+[m-net-city]:m-net-city-za.png
+[m-net-hd]:m-net-hd-za.png
+[m-net-movies-1]:m-net-movies-1-za.png
+[m-net-movies-2]:m-net-movies-2-za.png
+[m-net-movies-3]:m-net-movies-3-za.png
+[m-net-movies-4]:m-net-movies-4-za.png
+[m-net-movies-premiere]:m-net-movies-premiere-za.png
+[m-net-movies]:m-net-movies-za.png
+[m-net]:m-net-za.png
+[maisha-magic-bongo]:maisha-magic-bongo-za.png
+[maisha-magic-east]:maisha-magic-east-za.png
+[maisha-magic-movies]:maisha-magic-movies-za.png
+[maisha-magic-plus]:maisha-magic-plus-za.png
+[mindset]:mindset-za.png
+[moja-love]:moja-love-za.png
+[mtv-base]:mtv-base-za.png
+[mtv]:mtv-za.png
+[mzansi-bioskop]:mzansi-bioskop-za.png
+[mzansi-magic-music]:mzansi-magic-music-za.png
+[mzansi-magic]:mzansi-magic-za.png
+[mzansi-wethu]:mzansi-wethu-za.png
+[newzroom-afrika]:newzroom-afrika-za.png
+[novela-magic]:novela-magic-za.png
+[parliamentary-tv]:parliamentary-tv-za.png
+[pearl-magic-prime]:pearl-magic-prime-za.png
+[peoples-weather]:peoples-weather-za.png
+[rok]:rok-za.png
+[sabc-1]:sabc-1-za.png
+[sabc-2]:sabc-2-za.png
+[sabc-3]:sabc-3-za.png
+[sabc-news]:sabc-news-za.png
+[soweto-tv]:soweto-tv-za.png
 [supersport-1-maximo-za-obsolete]:obsolete/supersport-1-maximo-za-obsolete.png
 [supersport-1-select-za-obsolete]:obsolete/supersport-1-select-za-obsolete.png
 [supersport-1-za-obsolete]:obsolete/supersport-1-za-obsolete.png
@@ -117,61 +117,61 @@
 [supersport-8-za-obsolete]:obsolete/supersport-8-za-obsolete.png
 [supersport-9-hd-za-obsolete]:obsolete/supersport-9-hd-za-obsolete.png
 [supersport-9-za-obsolete]:obsolete/supersport-9-za-obsolete.png
-[supersport-action-bug-za]:screen-bug/supersport-action-bug-za.png
-[supersport-action-za]:supersport-action-za.png
-[supersport-blitz-bug-za]:screen-bug/supersport-blitz-bug-za.png
+[supersport-action-bug]:screen-bug/supersport-action-bug-za.png
+[supersport-action]:supersport-action-za.png
+[supersport-blitz-bug]:screen-bug/supersport-blitz-bug-za.png
 [supersport-blitz-hd-za-obsolete]:obsolete/supersport-blitz-hd-za-obsolete.png
-[supersport-blitz-za]:supersport-blitz-za.png
-[supersport-cricket-bug-za]:screen-bug/supersport-cricket-bug-za.png
-[supersport-cricket-za]:supersport-cricket-za.png
-[supersport-csn-bug-za]:screen-bug/supersport-csn-bug-za.png
-[supersport-csn-za]:supersport-csn-za.png
-[supersport-football-bug-za]:screen-bug/supersport-football-bug-za.png
-[supersport-football-plus-bug-za]:screen-bug/supersport-football-plus-bug-za.png
-[supersport-football-plus-za]:supersport-football-plus-za.png
-[supersport-football-za]:supersport-football-za.png
-[supersport-golf-bug-za]:screen-bug/supersport-golf-bug-za.png
-[supersport-golf-za]:supersport-golf-za.png
-[supersport-grandstand-bug-za]:screen-bug/supersport-grandstand-bug-za.png
-[supersport-grandstand-za]:supersport-grandstand-za.png
-[supersport-laliga-bug-za]:screen-bug/supersport-laliga-bug-za.png
-[supersport-laliga-za]:supersport-laliga-za.png
+[supersport-blitz]:supersport-blitz-za.png
+[supersport-cricket-bug]:screen-bug/supersport-cricket-bug-za.png
+[supersport-cricket]:supersport-cricket-za.png
+[supersport-csn-bug]:screen-bug/supersport-csn-bug-za.png
+[supersport-csn]:supersport-csn-za.png
+[supersport-football-bug]:screen-bug/supersport-football-bug-za.png
+[supersport-football-plus-bug]:screen-bug/supersport-football-plus-bug-za.png
+[supersport-football-plus]:supersport-football-plus-za.png
+[supersport-football]:supersport-football-za.png
+[supersport-golf-bug]:screen-bug/supersport-golf-bug-za.png
+[supersport-golf]:supersport-golf-za.png
+[supersport-grandstand-bug]:screen-bug/supersport-grandstand-bug-za.png
+[supersport-grandstand]:supersport-grandstand-za.png
+[supersport-laliga-bug]:screen-bug/supersport-laliga-bug-za.png
+[supersport-laliga]:supersport-laliga-za.png
 [supersport-maximo-360-za-obsolete]:obsolete/supersport-maximo-360-za-obsolete.png
-[supersport-maximo1-bug-za]:screen-bug/supersport-maximo1-bug-za.png
-[supersport-maximo1-za]:supersport-maximo1-za.png
-[supersport-maximo2-bug-za]:screen-bug/supersport-maximo2-bug-za.png
-[supersport-maximo2-za]:supersport-maximo2-za.png
-[supersport-motorsport-bug-za]:screen-bug/supersport-motorsport-bug-za.png
-[supersport-motorsport-za]:supersport-motorsport-za.png
-[supersport-play-bug-za]:screen-bug/supersport-play-bug-za.png
-[supersport-play-za]:supersport-play-za.png
-[supersport-premier-league-bug-za]:screen-bug/supersport-premier-league-bug-za.png
-[supersport-premier-league-za]:supersport-premier-league-za.png
-[supersport-psl-bug-za]:screen-bug/supersport-psl-bug-za.png
-[supersport-psl-za]:supersport-psl-za.png
-[supersport-rugby-bug-za]:screen-bug/supersport-rugby-bug-za.png
-[supersport-rugby-za]:supersport-rugby-za.png
+[supersport-maximo1-bug]:screen-bug/supersport-maximo1-bug-za.png
+[supersport-maximo1]:supersport-maximo1-za.png
+[supersport-maximo2-bug]:screen-bug/supersport-maximo2-bug-za.png
+[supersport-maximo2]:supersport-maximo2-za.png
+[supersport-motorsport-bug]:screen-bug/supersport-motorsport-bug-za.png
+[supersport-motorsport]:supersport-motorsport-za.png
+[supersport-play-bug]:screen-bug/supersport-play-bug-za.png
+[supersport-play]:supersport-play-za.png
+[supersport-premier-league-bug]:screen-bug/supersport-premier-league-bug-za.png
+[supersport-premier-league]:supersport-premier-league-za.png
+[supersport-psl-bug]:screen-bug/supersport-psl-bug-za.png
+[supersport-psl]:supersport-psl-za.png
+[supersport-rugby-bug]:screen-bug/supersport-rugby-bug-za.png
+[supersport-rugby]:supersport-rugby-za.png
 [supersport-select-za-obsolete]:obsolete/supersport-select-za-obsolete.png
-[supersport-tennis-bug-za]:screen-bug/supersport-tennis-bug-za.png
-[supersport-tennis-za]:supersport-tennis-za.png
-[supersport-variety1-bug-za]:screen-bug/supersport-variety1-bug-za.png
-[supersport-variety1-za]:supersport-variety1-za.png
-[supersport-variety2-bug-za]:screen-bug/supersport-variety2-bug-za.png
-[supersport-variety2-za]:supersport-variety2-za.png
-[supersport-variety3-bug-za]:screen-bug/supersport-variety3-bug-za.png
-[supersport-variety3-za]:supersport-variety3-za.png
-[supersport-variety4-bug-za]:screen-bug/supersport-variety4-bug-za.png
-[supersport-variety4-za]:supersport-variety4-za.png
-[supersport-wwe-bug-za]:screen-bug/supersport-wwe-bug-za.png
-[supersport-wwe-za]:supersport-wwe-za.png
-[supersport-za]:supersport-za.png
-[the-home-channel-za]:the-home-channel-za.png
-[tnt-za]:tnt-za.png
-[tshwane-tv-za]:tshwane-tv-za.png
-[universal-tv-za]:universal-tv-za.png
-[via-za]:via-za.png
-[vuzu-za]:vuzu-za.png
-[zambezi-magic-za]:zambezi-magic-za.png
+[supersport-tennis-bug]:screen-bug/supersport-tennis-bug-za.png
+[supersport-tennis]:supersport-tennis-za.png
+[supersport-variety1-bug]:screen-bug/supersport-variety1-bug-za.png
+[supersport-variety1]:supersport-variety1-za.png
+[supersport-variety2-bug]:screen-bug/supersport-variety2-bug-za.png
+[supersport-variety2]:supersport-variety2-za.png
+[supersport-variety3-bug]:screen-bug/supersport-variety3-bug-za.png
+[supersport-variety3]:supersport-variety3-za.png
+[supersport-variety4-bug]:screen-bug/supersport-variety4-bug-za.png
+[supersport-variety4]:supersport-variety4-za.png
+[supersport-wwe-bug]:screen-bug/supersport-wwe-bug-za.png
+[supersport-wwe]:supersport-wwe-za.png
+[supersport]:supersport-za.png
+[the-home-channel]:the-home-channel-za.png
+[tnt]:tnt-za.png
+[tshwane-tv]:tshwane-tv-za.png
+[universal-tv]:universal-tv-za.png
+[via]:via-za.png
+[vuzu]:vuzu-za.png
+[zambezi-magic]:zambezi-magic-za.png
 
 [space]:../../misc/space-1500.png "Space"
 
